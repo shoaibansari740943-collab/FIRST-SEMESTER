@@ -1,0 +1,46 @@
+#hero{
+  background-color: Blue;
+  color: white;
+  border-radius:10px;
+  text-align: center;
+  padding:10px;
+  
+}
+ .card{
+   border:none;
+   border-radius: 10px;
+  background-color: lightgray;
+}
+h2{
+  padding-top:20px;
+  padding-left: 10px;
+  color: black ;
+}
+table{
+  width:100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+th{
+  background-color: blue;
+  color: white;
+  text-align:teft;
+  padding:15px;
+}
+td{
+  border-bottom: 1px solid white;
+  padding :15px;
+}
+
+button{
+background-color:blue;
+color: white;
+margin:10px;
+padding:10px 10px;
+border-radius: 10px;
+border: none;
+}
+p{
+  text-align: center left;
+padding-left:20px;
+}
